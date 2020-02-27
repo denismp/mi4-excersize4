@@ -1,0 +1,111 @@
+{
+  "contractName": "Funding",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.8+commit.23d335f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/Users/denisputnam/git/mi4-exercise4/contracts/Funding.sol\":\"Funding\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/denisputnam/git/mi4-exercise4/contracts/Funding.sol\":{\"keccak256\":\"0x5dd39a90008a277f5f6da49708f8eaae02d87dfe0d151afea69b93179495fcb4\",\"urls\":[\"bzzr://4f1b524c12eeaaf2f64328364456bd52b6ef582eeb9f4a6e3a9053b02b8dff3e\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3fe6080604052600080fdfea165627a7a72305820bf1068d0f6aa19c43d28588a75db207ddec8e119c47e611ac36d0e6402a87e7c0029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a72305820bf1068d0f6aa19c43d28588a75db207ddec8e119c47e611ac36d0e6402a87e7c0029",
+  "sourceMap": "25:25:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;25:25:0;;;;;;;",
+  "deployedSourceMap": "25:25:0:-;;;;;",
+  "source": "pragma solidity ^0.5.1;\n\ncontract Funding {\n    \n}",
+  "sourcePath": "/Users/denisputnam/git/mi4-exercise4/contracts/Funding.sol",
+  "ast": {
+    "absolutePath": "/Users/denisputnam/git/mi4-exercise4/contracts/Funding.sol",
+    "exportedSymbols": {
+      "Funding": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Funding",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "25:25:0"
+      }
+    ],
+    "src": "0:50:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/Users/denisputnam/git/mi4-exercise4/contracts/Funding.sol",
+    "exportedSymbols": {
+      "Funding": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".1"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Funding",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "25:25:0"
+      }
+    ],
+    "src": "0:50:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.8+commit.23d335f2.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xDA65E2576b0e941FCfCc1B1013fD5944fCaa73e5",
+      "transactionHash": "0xdb22eaeb25b30ee4fe2a28c4d9005ecdc601a36759e72ad7b38eaaafa4514339"
+    }
+  },
+  "schemaVersion": "3.0.11",
+  "updatedAt": "2020-02-27T02:23:44.555Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
